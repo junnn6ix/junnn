@@ -8,13 +8,19 @@ export default function Hero() {
       </p>
 
       <h1 className="hero-title" id="hero-title">
-        <span className="line"><span>Full-Stack</span></span>
-        <span className="line"><span>Developer &amp;</span></span>
+        <span className="line">
+          <span>Front-End</span>
+        </span>
         <span className="line">
           <span>
-            Designer<em style={{ color: 'var(--accent)' }}>.</em>
+            Developer<em style={{ color: "var(--accent)" }}>.</em>
           </span>
         </span>
+        {/* <span className="line">
+          <span>
+            Designer<em style={{ color: "var(--accent)" }}>.</em>
+          </span>
+        </span> */}
       </h1>
 
       <div className="hero-sub">
