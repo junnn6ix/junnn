@@ -7,13 +7,12 @@ import { Analytics } from "@vercel/analytics/next";
 const geist = Geist({ subsets: ["latin"], variable: "--font-sans" });
 
 export const metadata: Metadata = {
-  title: "YourName — Full-Stack Developer & Designer",
-  description:
-    "I craft fast, purposeful digital experiences — from concept to deployment. Focused on clean code and thoughtful interaction.",
+  title: "Jun",
+  description: "Nothing, just for fun.",
   openGraph: {
-    title: "YourName — Full-Stack Developer & Designer",
+    title: "Jun",
     description:
-      "Portfolio of a Full-Stack Developer & Designer based in Jakarta.",
+      "Portfolio of a Full-Stack Developer & Designer based in Tasikmalaya.",
     type: "website",
   },
 };
